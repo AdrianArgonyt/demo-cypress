@@ -1,0 +1,5 @@
+﻿# Ignora artefatos do Cypress (layout com 'cypress/cypress')
+cypress/cypress/videos/*
+!cypress/cypress/videos/.gitkeep
+cypress/cypress/screenshots/*
+!cypress/cypress/screenshots/.gitkeep
